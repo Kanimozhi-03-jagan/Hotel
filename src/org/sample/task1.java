@@ -11,6 +11,10 @@ public static void main(String[] args) {
 	
 	int  f = s.lastIndexOf('P');
 	System.out.println(f);
+	
+	String s2="i am good girl";
+	int w=s2.length();
+	System.out.println(w);
 /*for(int i=0;i<s.length();i++) {
 	char ch=s.charAt(i);
 	System.out.println(s.charAt(1));
