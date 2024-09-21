@@ -13,7 +13,8 @@ public static void main(String[] args) {
 	System.out.println(f);
 	
 	String str="this is jagan";
-	System.out.println(str);
+	int o=s.length();
+	System.out.println(o);
 			
 /*for(int i=0;i<s.length();i++) {
 	char ch=s.charAt(i);
